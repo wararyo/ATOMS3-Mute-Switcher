@@ -2,6 +2,8 @@
 
 M5Stack ATOMS3を使った、Discordのミュートを切り替える装置です。
 
+![Eyecatch](eyecatch.jpg)
+
 ## 導入方法
 
 [Discord Developer Portal](https://discord.com/developers/applications) から新しいアプリケーションを作成し、Client IDとClient Secretを取得します。
