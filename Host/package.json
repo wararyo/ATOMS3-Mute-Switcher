@@ -1,0 +1,23 @@
+{
+    "name": "atoms3-mute-switch-host-application",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "serve": "node index.js",
+        "build": "nexe --build index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "wararyo",
+    "license": "MIT",
+    "dependencies": {
+        "discord-rpc": "^4.0.1",
+        "dotenv": "^16.0.1",
+        "express": "^4.18.1",
+        "serialport": "^10.5.0"
+    },
+    "devDependencies": {
+        "nexe": "^4.0.0-rc.1"
+    }
+}
